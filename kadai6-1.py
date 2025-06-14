@@ -2,6 +2,13 @@
 # オープンデータ名と概要:
 漁業センサス
 このAPIは、流通加工業における魚市場の数について提供している
+# エンドポイント
+API ベースURL:http://api.e-stat.go.jp/rest/3.0/app/json
+例えば以下のようなエンドポイントを使用可能である
+メタ情報: /getMetaInfo
+統計データ: /getStatsData
+#使い方
+APP_IDを合わせて必要なエンドポイントを指定してデータをリクエストすることで、情報を取得可能
 """
 import requests
 
