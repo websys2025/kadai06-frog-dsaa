@@ -1,5 +1,4 @@
 """
-kadai6-2.py
 
 # オープンデータ名と概要:
 東京都オープンデータAPI (Tokyo Metropolitan Government Open Data API)  
